@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # Insider Threat & IAM Risk Analysis
 
 ## Project Overview
